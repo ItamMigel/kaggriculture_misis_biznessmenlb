@@ -1,0 +1,97 @@
+Frozen 960 games, 16 worlds, both seats. Output: /workspace/shared/runs/t025_cma4_g005_and_g015_fresh_full_gate/arena
+12/960 completed; errors=0
+24/960 completed; errors=0
+36/960 completed; errors=0
+48/960 completed; errors=0
+60/960 completed; errors=0
+72/960 completed; errors=0
+84/960 completed; errors=0
+96/960 completed; errors=0
+108/960 completed; errors=0
+120/960 completed; errors=0
+132/960 completed; errors=0
+144/960 completed; errors=0
+156/960 completed; errors=0
+168/960 completed; errors=0
+180/960 completed; errors=0
+192/960 completed; errors=0
+204/960 completed; errors=0
+216/960 completed; errors=0
+228/960 completed; errors=0
+240/960 completed; errors=0
+252/960 completed; errors=0
+264/960 completed; errors=0
+276/960 completed; errors=0
+288/960 completed; errors=0
+300/960 completed; errors=0
+312/960 completed; errors=0
+324/960 completed; errors=0
+336/960 completed; errors=0
+348/960 completed; errors=0
+360/960 completed; errors=0
+372/960 completed; errors=0
+384/960 completed; errors=0
+396/960 completed; errors=0
+408/960 completed; errors=0
+420/960 completed; errors=0
+432/960 completed; errors=0
+444/960 completed; errors=0
+456/960 completed; errors=0
+468/960 completed; errors=0
+480/960 completed; errors=0
+492/960 completed; errors=0
+504/960 completed; errors=0
+516/960 completed; errors=0
+528/960 completed; errors=0
+540/960 completed; errors=0
+552/960 completed; errors=0
+564/960 completed; errors=0
+576/960 completed; errors=0
+588/960 completed; errors=0
+600/960 completed; errors=0
+612/960 completed; errors=0
+624/960 completed; errors=0
+636/960 completed; errors=0
+648/960 completed; errors=0
+660/960 completed; errors=0
+672/960 completed; errors=0
+684/960 completed; errors=0
+696/960 completed; errors=0
+708/960 completed; errors=0
+720/960 completed; errors=0
+732/960 completed; errors=0
+744/960 completed; errors=0
+756/960 completed; errors=0
+768/960 completed; errors=0
+780/960 completed; errors=0
+792/960 completed; errors=0
+804/960 completed; errors=0
+816/960 completed; errors=0
+828/960 completed; errors=0
+840/960 completed; errors=0
+852/960 completed; errors=0
+864/960 completed; errors=0
+876/960 completed; errors=0
+888/960 completed; errors=0
+900/960 completed; errors=0
+912/960 completed; errors=0
+924/960 completed; errors=0
+936/960 completed; errors=0
+948/960 completed; errors=0
+960/960 completed; errors=0
+Results: /workspace/shared/runs/t025_cma4_g005_and_g015_fresh_full_gate/arena/README.md
+Traceback (most recent call last):
+  File "/workspace/wt/analysis/lab/tools/t025_fresh_full_panel_report.py", line 105, in <module>
+    main()
+  File "/workspace/wt/analysis/lab/tools/t025_fresh_full_panel_report.py", line 71, in main
+    per_op[op] = np.mean(values, axis=0)
+           ^^
+NameError: name 'op' is not defined. Did you mean: 'ap'?
+Traceback (most recent call last):
+  File "/workspace/wt/analysis/lab/tools/t025_run_fresh_full_gate.py", line 152, in <module>
+    main()
+  File "/workspace/wt/analysis/lab/tools/t025_run_fresh_full_gate.py", line 122, in main
+    subprocess.run(report_command, cwd=ROOT, check=True)
+  File "/venv/main/lib/python3.12/subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['/workspace/solution_kaggri/.venv/bin/python', '/workspace/wt/analysis/lab/tools/t025_fresh_full_panel_report.py', '--games', '/workspace/shared/runs/t025_cma4_g005_and_g015_fresh_full_gate/arena/games.jsonl', '--candidate', 'cma4_g005', '--control', 'es5_c3g15', '--out', '/workspace/shared/runs/t025_cma4_g005_and_g015_fresh_full_gate/cma4_g005_gate_report.json', '--allowed-agent', 'cma4_g015']' returned non-zero exit status 1.

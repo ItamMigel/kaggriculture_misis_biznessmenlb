@@ -1,0 +1,14 @@
+/workspace/solution_kaggri/.venv/lib/python3.12/site-packages/cma/s.py:17: UserWarning: Could not import matplotlib.pyplot, therefore ``cma.plot()`` etc. is not available
+  _warnings.warn('Could not import matplotlib.pyplot, therefore'
+{"gen": 0, "centre_fit": 0.96511015625, "best": "x1", "best_fit": 0.9973027343749999, "sigma": 0.05679114234606221, "errors": 0, "secs": 1902}
+{"gen": 1, "centre_fit": 1.128453125, "best": "c", "best_fit": 1.128453125, "sigma": 0.05506768884327564, "errors": 0, "secs": 2018}
+{"gen": 2, "centre_fit": 0.9679578125, "best": "x3", "best_fit": 0.9984578125000001, "sigma": 0.05336319592708168, "errors": 0, "secs": 1474}
+{"gen": 3, "centre_fit": 1.0719777343749999, "best": "x3", "best_fit": 1.103450390625, "sigma": 0.051604125624254524, "errors": 0, "secs": 1831}
+{"gen": 4, "centre_fit": 0.9896722656250001, "best": "x5", "best_fit": 1.0567890625, "sigma": 0.04965449716067929, "errors": 0, "secs": 2052}
+{"gen": 5, "centre_fit": 1.08396171875, "best": "x6", "best_fit": 1.085003515625, "sigma": 0.0484963781446021, "errors": 0, "secs": 1534}
+{"gen": 6, "centre_fit": 1.0921296875000002, "best": "x4", "best_fit": 1.09353671875, "sigma": 0.04728421626259357, "errors": 0, "secs": 1231}
+{"gen": 7, "centre_fit": 0.94153671875, "best": "x3", "best_fit": 1.007328125, "sigma": 0.04696387060609959, "errors": 0, "secs": 1182}
+{"gen": 8, "centre_fit": 1.03318828125, "best": "x3", "best_fit": 1.1064859375, "sigma": 0.046896313453919806, "errors": 0, "secs": 1193}
+{"gen": 9, "centre_fit": 1.0747347656250001, "best": "x5", "best_fit": 1.0751417968749999, "sigma": 0.04739000983298839, "errors": 0, "secs": 1133}
+{"gen": 10, "centre_fit": 1.073877734375, "best": "x0", "best_fit": 1.074823046875, "sigma": 0.04741155084093982, "errors": 0, "secs": 1073}
+{"gen": 11, "centre_fit": 0.97758984375, "best": "x4", "best_fit": 1.0100984375, "sigma": 0.04630764535709972, "errors": 0, "secs": 1300}

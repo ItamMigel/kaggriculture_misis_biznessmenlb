@@ -1,0 +1,59 @@
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+Loading environment open_spiel_env failed: No module named 'pyspiel'
+0 {'ok': 1}
+50 {'ok': 51}
+100 {'ok': 101}
+150 {'ok': 151}
+200 {'ok': 201}
+250 {'ok': 251}
+300 {'ok': 301}
+350 {'ok': 351}
+400 {'ok': 401}
+450 {'ok': 451}
+500 {'ok': 501}
+550 {'ok': 551}
+600 {'ok': 601}
+650 {'ok': 651}
+700 {'ok': 701}
+750 {'ok': 751}
+800 {'ok': 801}
+850 {'ok': 851}
+900 {'ok': 901}
+950 {'ok': 951}
+1000 {'ok': 1001}
+1050 {'ok': 1051}
+1100 {'ok': 1101}
+1150 {'ok': 1151}
+1200 {'ok': 1201}
+1250 {'ok': 1251}
+1300 {'ok': 1301}
+1350 {'ok': 1351}
+1400 {'ok': 1401}
+1450 {'ok': 1451}
+1500 {'ok': 1501}
+1550 {'ok': 1551}
+1600 {'ok': 1601}
+1650 {'ok': 1651}
+1700 {'ok': 1701}
+1750 {'ok': 1751}
+1800 {'ok': 1801}
+1850 {'ok': 1851}
+1900 {'ok': 1901}
+1950 {'ok': 1951}
+done {'ok': 2000}
