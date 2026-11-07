@@ -1,0 +1,17 @@
+replays/
+kaggle_cache/
+__pycache__/
+# runs: keep results/summaries/logs/ES state; drop bulky replays and per-candidate agent copies
+runs/**/replays/
+runs/es1/gen_*/c/
+runs/es1/gen_*/p*/
+runs/es1/gen_*/n*/
+runs/**/*.py
+runs/**/*.tar.gz
+runs/**/arena/*.json.gz
+h100_pkg/
+research/re/*.npz
+
+# Local official datasets; GitHub LFS quota exhausted
+research/t046_build/*.zip
+research/t046_official/*.zip
