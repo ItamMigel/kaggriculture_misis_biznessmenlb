@@ -1,0 +1,51 @@
+{
+  "source_repository": "https://github.com/ItamMigel/solution_kaggri",
+  "published_repository": "https://github.com/ItamMigel/kaggriculture_misis_biznessmenlb",
+  "publication_date": "2026-11-07",
+  "branches": [
+    {
+      "branch": "adil-board",
+      "commit": "d67c7beaa00635664b3863e4ba8e3689b7784058",
+      "destination": "experiments/branches/adil-board",
+      "source_files": 11652,
+      "included_files": 11501,
+      "excluded_categories": {
+        "coordination": 52,
+        "assistant-session": 98,
+        "runtime-state": 1
+      }
+    },
+    {
+      "branch": "adil-lab",
+      "commit": "826923efd4ce3998e2f1f0a562421d838a2a6a2e",
+      "destination": "experiments/branches/adil-lab",
+      "source_files": 359,
+      "included_files": 354,
+      "excluded_categories": {
+        "coordination": 5
+      }
+    },
+    {
+      "branch": "main",
+      "commit": "5f1b3c4f82aaf25e2c3ac6c470c4e8d2740347ad",
+      "destination": "experiments/branches/main",
+      "source_files": 48,
+      "included_files": 48,
+      "excluded_categories": {}
+    },
+    {
+      "branch": "pavel-lab",
+      "commit": "8909461d92aaf74f404627e1438445b7e6c1e05e",
+      "destination": ".",
+      "source_files": 410,
+      "included_files": 404,
+      "excluded_categories": {
+        "coordination": 6
+      }
+    }
+  ],
+  "packaging": "Branch-tip snapshots; source commit history remains in the original repository.",
+  "cleanup": "Operational coordination files and sessions omitted; research file paths normalized. Licenses retained.",
+  "final_agent_integrity": "SHA-256 hashes match the submitted source manifests.",
+  "transformed_files": 720
+}
