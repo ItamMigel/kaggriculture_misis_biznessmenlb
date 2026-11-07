@@ -5,7 +5,7 @@
   "files": {
     "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
     "NOTICE.md": "1cd116ab99eb9a74acfd1df31421d1ad4396d9d079acf3dc4a073f779d99ef74",
-    "README.md": "bea4e07ad3ace5285ee1ada55d19a1eb61fdb9a16403f05555161b880db8684e",
+    "README.md": "506a783363d76b15d7626ae489b5ed36909ace0ad9d062bc2618971ccfe10b3e",
     "VALIDATION.md": "183116c9cfa6233ac1bd82ce21528f4b4e9da65e13f446f1fc0bca6892493559",
     "agents/horizon_v3.py": "bc6415bb18b209ce442b5376466619553906440c21ed117487ba058be83f1689",
     "agents/horizon_v4.py": "b948b99b18cd47dd978ac7afd5ec8fdb0883bbd908f41bd82538fcd7f73114b0",
